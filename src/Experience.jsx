@@ -41,7 +41,7 @@ function Experience() {
                   <Arrow/>
                 </Html>
                 <Text 
-                  font={'./zeyada.ttf'}
+                  font={'./Zeyada.ttf'}
                   fontSize={0.2}
                   position={[1.8,2.25,-1]}
                 >
